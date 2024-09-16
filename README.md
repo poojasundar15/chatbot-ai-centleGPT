@@ -20,7 +20,7 @@ Create Python flask project from cmd using mkdir
 
 To run the code, run the following command
 
-  >  python app.py
+  Step: 9 >  python app.py
 ```
 Running on default port - http://127.0.0.1:5000
 
