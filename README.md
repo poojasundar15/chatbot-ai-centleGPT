@@ -26,7 +26,7 @@ Running on default port - http://127.0.0.1:5000
 
 ## CentleGPT Chatbot AI - Snapshots
 
-![Screenshot 2024-09-16 193100](https://github.com/user-attachments/assets/41c401ad-0395-445c-9eee-1aafe870d528)
+![Screenshot 2024-09-16 194742](https://github.com/user-attachments/assets/4ba96063-70dd-4bf0-9279-57000ce06784)
 
 ![Screenshot 2024-09-16 194010](https://github.com/user-attachments/assets/f053f402-5051-48b1-9934-23c20afbf356)
 
