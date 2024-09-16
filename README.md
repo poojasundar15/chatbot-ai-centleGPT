@@ -25,6 +25,14 @@ To run the code, run the following command
 Running on default port - http://127.0.0.1:5000
 
 
+## CentleGPT snapshots
+
+![Screenshot 2024-09-16 193100](https://github.com/user-attachments/assets/41c401ad-0395-445c-9eee-1aafe870d528)
+
+
+
+
+
   
     
     
