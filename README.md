@@ -5,11 +5,18 @@
 Create Python flask project from cmd using mkdir
 
 ```cmd
-  > mkdir project_name
-  > cd project_name
+  Step: 1 > mkdir project_name
+  Step: 2 > cd project_name
+  Step: 3 > python -m venv venv
+  Step: 4 > pip install flask google-generativeai
+  Step: 5 > mkdir templates
 ```
 ```
-  > python -m venv venv
+  Step: 6 > index.html – CREATE INDEX.HTML on your own in VS CODE
 ```
+```cmd
+  Step: 7 > pip install flask google-generativeai
+  
+    
     
 
