@@ -22,6 +22,7 @@ To run the code, run the following command
 
   >  python app.py
 ```
+Running on default port - http://127.0.0.1:5000
 
 
   
