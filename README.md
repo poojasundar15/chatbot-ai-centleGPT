@@ -18,7 +18,7 @@ Create python flask project from cmd using mkdir
   Step: 7 > pip install flask google-generativeai
   Step: 8 > pip install --upgrade google-generativeai (If you have any upgrade errors just use this command and upgrade generativeai and flask)
 
-To run the code, run the following command
+## To run the code, run the following command
 
   >  python app.py
 ```
